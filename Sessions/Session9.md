@@ -1,11 +1,16 @@
 ## This was an intro session:
 
 ### Content:
-#### Electronics
-    - Arduino with IR reciever
-    - Buck-converter
+#### Control
+    - Arduino with Servo
+    - Arduino With Python and Tkinter
+    - Tkinter with pygame
 
-#### Python
-    - tkinter revision
-    - tkinter with arduino
-    - Serial
+#### Altium
+    - Intro
+    - pad
+    - via
+    - single layer
+    - double layer
+    - schematic
+    - PCB
